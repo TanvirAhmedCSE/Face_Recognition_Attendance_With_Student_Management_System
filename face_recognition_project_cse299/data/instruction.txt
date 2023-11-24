@@ -1,0 +1,1 @@
+students photos will be stored in "data" folder
