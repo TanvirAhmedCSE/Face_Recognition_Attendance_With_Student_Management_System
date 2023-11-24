@@ -1,0 +1,2 @@
+our classifier's size is 35MB.
+use your classifier.xml from installed python cv2 folder
