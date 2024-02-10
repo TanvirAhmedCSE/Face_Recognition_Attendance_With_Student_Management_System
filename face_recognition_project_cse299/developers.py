@@ -25,7 +25,7 @@ class Developerss:
         developer1_image_label.photo = developer1_photo
         developer1_image_label.pack()
 
-        developer1_info = Label(left_frame, text="Name: Tanvir Ahmed\nID: 2031105642\nDepartment: CSE\nEmail: tanvir.ahmed29@northsouth.edu\nNorth South University, Bangladesh", font=("times new roman", 14), bg="lightgray")
+        developer1_info = Label(left_frame, text="Name: Mr X\nID: 124356\nDepartment: Computer Science\nEmail: mrx12@gmail.com\nPthon Developer", font=("times new roman", 14), bg="lightgray")
         developer1_info.pack(pady=10)
 
         # Developer 2 Details
@@ -40,7 +40,7 @@ class Developerss:
         developer2_image_label.photo = developer2_photo
         developer2_image_label.pack()
 
-        developer2_info = Label(right_frame, text="Name: Fahmin Chowdhury\nID: 2031753642\nDepartment: CSE\nEmail: fahmin.chowdhury@northsouth.edu\nNorth South University, Bangladesh", font=("times new roman", 14), bg="lightblue")
+        developer2_info = Label(right_frame, text="Name: Mr Y\nID: 678905\nDepartment: Computer Science\nEmail: mry12@gmail.com\nPthon Developer", font=("times new roman", 14), bg="lightblue")
         developer2_info.pack(pady=10)
 
 # Create the main window
